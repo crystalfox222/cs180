@@ -1,0 +1,3 @@
+110111, John, Doe, Purdue, West Lafayette, 2020, 5, 32.00, Yes
+110123, boy, Baby, purdue, Indianapolis, 2029, 6, 75.00, No
+110124, girl, Babyboi, purdue, Indianapolis, 2027, 12, 60.00, No
