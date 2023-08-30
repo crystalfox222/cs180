@@ -1,0 +1,10 @@
+Hunted House in Lafayette,Nicolas Adams,10,2,5,-3,20,Velma
+Ghost in Lawson,Justin Bold,4,3,5,1,33,Fred
+Ghost in HAAS,Jared Abraham,-4,3,5,1,33,Fred
+The phantom of Purdue,Harry Potter,4,-3,5,1,33,Scooby-Doo
+Chaos in the White House,Aladdin the third,4,3,-5,1,33,Shaggy
+Where is my mummy,Lord Voldemort,4,3,5,-1,-33,Shaggy
+Loch Ness Monster,Charis Irakleous,8,13,56,12,23b,Daphne
+Alliens in New Mexico,Athena Williams,4a,38,95,61,7,Velma
+Dragon flying around China,Jofrey Bond,4,3,5,1,73,Scooby-Doo
+Uknown island,Jafar Rex,86,24,41,89,-9,Scooby-Doo

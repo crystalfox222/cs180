@@ -1,0 +1,5 @@
+Velma: 217
+Scooby-Doo: 213
+Fred: 167
+Shaggy: 163
+Daphne: 89
