@@ -1,0 +1,31 @@
+import java.util.Scanner;
+public class BusinessCard {
+	public static void main(String[] args){
+		Scanner scan = new Scanner(System.in);
+		//name 
+		System.out.println("Enter your Name:");
+		String name = scan.nextLine();
+		//birth
+		System.out.println("Enter your Year of Birth:");
+		int birth = 2020 - scan.nextLine();
+		//gpa
+		System.out.println("Enter your GPA:");
+		double gpa = scan.nextLine();
+		//major
+		System.out.println("Enter your Major:");
+		String major = scan.nextLine();
+		//email
+		System.out.println("Enter your Email:");
+		String email = scan.nextLine();
+		//output
+		System.out.println("Name: " + name);
+		System.out.println("Age: " + birth);
+		System.out.println("GPA: " + gpa);
+		System.out.println("Major: " + major);
+		System.out.println("Email: " + email);
+		
+		
+		
+	
+	}
+}	

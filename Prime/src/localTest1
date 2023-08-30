@@ -1,0 +1,23 @@
+input
+1
+1000000001
+-1
+inputEnd
+
+description
+Test 1. Testing Invalid Input and Quit. 
+descriptionEnd
+
+error
+Error in Menu. Failed invalid input or quit options. 
+errorEnd
+
+out
+Enter number N: 
+N should not be less than 2
+Enter number N: 
+N should not be bigger than 1e9
+Enter number N: 
+Terminating program...
+Bye!
+outEnd

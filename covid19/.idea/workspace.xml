@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94ac6470-2fc7-463f-8c56-50dbe105d370" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZdZo6AjxiNyo6hu7hH0yF7GmZ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SolidLocalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="covid19" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolidLocalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolidLocalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94ac6470-2fc7-463f-8c56-50dbe105d370" name="Default Changelist" comment="" />
+      <created>1585171102802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585171102802</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1280" height="20" key="GridCell.Tab.0.bottom" timestamp="1585185237680">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="20" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585185237680" />
+    <state width="1280" height="20" key="GridCell.Tab.0.center" timestamp="1585185237679">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="20" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585185237679" />
+    <state width="1280" height="20" key="GridCell.Tab.0.left" timestamp="1585185237679">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="20" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585185237679" />
+    <state width="1280" height="20" key="GridCell.Tab.0.right" timestamp="1585185237679">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="20" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585185237679" />
+    <state x="378" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585184646258">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="378" y="381" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1360.728@0.0.1360.728" timestamp="1585184646258" />
+    <state x="0" y="0" key="new project wizard" timestamp="1585515101396">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1585515101396" />
+  </component>
+</project>

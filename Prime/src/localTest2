@@ -1,0 +1,23 @@
+input
+8776
+4125
+-1
+inputEnd
+
+description
+Test 3. Testing multiple small inputs. 
+descriptionEnd
+
+error
+Error in calculation. Failed multiple small inputs. 
+errorEnd
+
+out
+Enter number N: 
+The last valid prime number is: 307
+Enter number N: 
+The last valid prime number is: 197
+Enter number N: 
+Terminating program...
+Bye!
+outEnd
